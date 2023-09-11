@@ -1,4 +1,9 @@
-# calculadoraKotlin
+<h1 align="center">
+    <img src="img/calculator.png"  alt="calculator image"/>
+    <p>Kotlin Calculator V2.0!</p>
+</h1>
+
+## 📚 About
 
 It's a simple calculator developed in Kotlin language that can perform operations like:
 Addition, Subtraction, Multiplication, Division and Potentiation.
