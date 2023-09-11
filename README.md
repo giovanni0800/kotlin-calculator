@@ -1,5 +1,10 @@
 <h1 align="center">
     <img src="img/calculator.png"  alt="calculator image"/>
+    <br/>
+    <br/>
+    +
+    <br/>
+    <img src="img/kotlin_icon.png" alt="" />
     <p>Kotlin Calculator V2.0!</p>
 </h1>
 
