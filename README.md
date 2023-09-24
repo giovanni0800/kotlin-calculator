@@ -3,7 +3,7 @@
     <br/>
     +
     <br/>
-    <img src="img/kotlin_icon.png" alt="" />
+    <img src="img/kotlin_icon.png" alt="Kotlin image" />
     <p>Kotlin Calculator V2.0!</p>
 </h1>
 
