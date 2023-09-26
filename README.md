@@ -21,3 +21,17 @@ and some new syntaxes.
 - [Kotlin](https://github.com/JetBrains/kotlin/releases/tag/v1.3.72)
 - [JDK 18.0.2.1](https://www.oracle.com/java/technologies/javase/jdk18-archive-downloads.html)
 - [InteliJ 2023.2.1](https://www.jetbrains.com/idea/download/?section=windows)
+
+```bash
+    #Clone this project
+    git clone https://github.com/giovanni0800/kotlin-calculator.git
+```
+
+```bash
+    #Enter directory
+    cd CalculadoraKotlin
+```
+
+## 📖 License
+This Project is under the MIT license. See the file LICENSE
+for more details
